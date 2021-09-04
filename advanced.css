@@ -1,0 +1,26 @@
+.AS {
+    padding-top: 50px;
+    color: #F28B82;
+}
+
+.link {
+    position:absolute; /*An element with position: absolute; is positioned relative 
+                        to the nearest positioned ancestor (instead of positioned 
+                        relative to the viewport, like fixed). */
+    top:0;
+    right:0;
+    padding:15px;
+}
+
+hr {
+    border-color: #3c4043;
+    margin-top: 20px;
+}
+
+.body{
+    margin:10px;
+}
+
+.pages{
+    margin-bottom: 20px;
+}

@@ -1,0 +1,15 @@
+diff between img and basic search
+
+image
+https://www.google.com/search?q=hi&hl=en&tbm=isch&sxsrf=ALeKk03hOP-sl3MobmH_YnEb9ezN-g3oWg%3A1627197101939&source=hp&biw=1280&bih=609&ei=rQ79YLnjNdKY-Aa0q67QAw&gs_lcp=C
+gNpbWcQDDIECCMQJzIICAAQsQMQgwEyBQgAELEDMgUIABCxAzICCAAyBQgAELEDMgUIABCxAzICCAAyAggAMgUIABCxA1CgBVjgBmDWK2gAcAB4AIABP4gBcpIBATKYAQCgAQGqAQtnd3Mtd2l6LWltZw&sclient=img
+&ved=0ahUKEwj57fLJ1f3xAhVSDN4KHbSVCzoQ4dUDCAc
+
+basic
+https://www.google.com/search?q=hi&hl=en&sxsrf=ALeKk03ufv9p-jN3kuVE2enNsbZWgwquEQ%3A1627197231199&source=hp&ei=Lw_9YKXHCYac-AaF-r1g&iflsig=AINFCbYAAAAAYP0dP2Y5ZesnAUD274
+r5S0wDNHxyonYK&oq=hi&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgAEEMyBAgAEEMyBAgAEEMyBAguEEMyBAgAEEMyCAguELEDEIMBMgIIADIFCAAQsQMyBQgAELEDUNQTWI0WYMEfaABwAHgAgAFiiAG7AZIBATKYAQCgA
+QGqAQdnd3Mtd2l6&sclient=gws-wiz&ved=0ahUKEwjlmsWH1v3xAhUGDt4KHQV9DwwQ4dUDCAg&uact=5
+
+findings
+tbm=isch: to be matched = image search
+tbm=isch&q=chicken: search "chicken" from Google Image Search
